@@ -1,5 +1,6 @@
 xarray
 dask
+numpy
 cartopy
 matplotlib
 xgcm
