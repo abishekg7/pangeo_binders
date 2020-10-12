@@ -1,0 +1,9 @@
+xarray
+dask
+cartopy
+matplotlib
+xgcm
+time
+pandas
+intake-esm
+gcsfs
