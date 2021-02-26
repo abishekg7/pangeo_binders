@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 appdirs==1.4.3
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1596629847793/work
 asciitree==0.3.3
@@ -137,7 +137,7 @@ yarl==1.5.1
 zarr==2.4.0
 zict==2.0.0
 zipp==3.1.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 appdirs==1.4.3
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1596629847793/work
 asciitree==0.3.3
