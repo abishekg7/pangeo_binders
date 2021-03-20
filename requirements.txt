@@ -51,7 +51,7 @@ ipykernel @ file:///tmp/build/80754af9/ipykernel_1596207638929/work/dist/ipykern
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1598749948871/work
 ipython-genutils==0.2.0
 jedi==0.15.2
-Jinja2==2.11.2
+Jinja2==2.11.3
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1591810480056/work
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
@@ -190,7 +190,7 @@ ipykernel @ file:///tmp/build/80754af9/ipykernel_1596207638929/work/dist/ipykern
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1598749948871/work
 ipython-genutils==0.2.0
 jedi==0.15.2
-Jinja2==2.11.2
+Jinja2==2.11.3
 json5 @ file:///home/conda/feedstock_root/build_artifacts/json5_1591810480056/work
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
