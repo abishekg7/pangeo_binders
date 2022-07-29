@@ -64,7 +64,7 @@ locket==0.2.0
 Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
 MarkupSafe==1.1.1
 matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1600159108024/work
-mistune==0.8.4
+mistune==2.0.3
 monotonic==1.5
 mpi4py==3.0.3
 msgpack==1.0.0
@@ -203,7 +203,7 @@ locket==0.2.0
 Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
 MarkupSafe==1.1.1
 matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1600159108024/work
-mistune==0.8.4
+mistune==2.0.3
 monotonic==1.5
 mpi4py==3.0.3
 msgpack==1.0.0
