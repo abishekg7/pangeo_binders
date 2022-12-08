@@ -12,7 +12,7 @@ bokeh @ file:///home/conda/feedstock_root/build_artifacts/bokeh_1599000923545/wo
 brotlipy==0.7.0
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1593420445823/work
 Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1596899868096/work
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1595805769248/work
 cfgrib @ file:///home/conda/feedstock_root/build_artifacts/cfgrib_1596573323785/work
 cftime @ file:///home/conda/feedstock_root/build_artifacts/cftime_1595215622421/work
@@ -151,7 +151,7 @@ bokeh @ file:///home/conda/feedstock_root/build_artifacts/bokeh_1599000923545/wo
 brotlipy==0.7.0
 cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1593420445823/work
 Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1596899868096/work
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1595805769248/work
 cfgrib @ file:///home/conda/feedstock_root/build_artifacts/cfgrib_1596573323785/work
 cftime @ file:///home/conda/feedstock_root/build_artifacts/cftime_1595215622421/work
